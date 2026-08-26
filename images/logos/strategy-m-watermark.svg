@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" shape-rendering="geometricPrecision" aria-hidden="true">
+  <!-- Clean BRIJ Machines M — single silhouette, no raster artifacts -->
+  <path
+    fill="#b1c854"
+    d="
+      M8,8 h144 v22 H132 v40 h20 v22 H96 V70 H64 v22 H8 V70 h20 V30 H8 Z
+      M63,8 h34 v50
+      c0,12 -7,20 -17,20
+      s-17,-8 -17,-20
+      Z
+    "
+  />
+</svg>
